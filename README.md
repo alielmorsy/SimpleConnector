@@ -1,2 +1,0 @@
-# SimpleConnector
-An Easy API

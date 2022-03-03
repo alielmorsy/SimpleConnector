@@ -1,0 +1,12 @@
+﻿D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\bin\Debug\net6.0\SimpleConnector.deps.json
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\bin\Debug\net6.0\SimpleConnector.dll
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\bin\Debug\net6.0\SimpleConnector.pdb
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\SimpleConnector.csproj.AssemblyReference.cache
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\SimpleConnector.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\SimpleConnector.AssemblyInfoInputs.cache
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\SimpleConnector.AssemblyInfo.cs
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\SimpleConnector.csproj.CoreCompileInputs.cache
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\SimpleConnector.dll
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\refint\SimpleConnector.dll
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\SimpleConnector.pdb
+D:\works\multiGithubProjects\simpleConnector\SimpleConnector\SimpleConnector\obj\Debug\net6.0\ref\SimpleConnector.dll
