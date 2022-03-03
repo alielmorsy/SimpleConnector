@@ -7,4 +7,14 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\Release\net6.0\SimpleConnector.csproj.AssemblyReference.cache" />
+      <Content Include="obj\Release\net6.0\SimpleConnector.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Release\net6.0\SimpleConnector.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Release\net6.0\SimpleConnector.dll" />
+      <Content Include="obj\Release\net6.0\SimpleConnector.pdb" />
+      <Content Include="obj\SimpleConnector.csproj.nuget.dgspec.json" />
+    </ItemGroup>
+
 </Project>
