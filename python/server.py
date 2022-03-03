@@ -58,7 +58,7 @@ class Server:
                     thread=threading.Thread(target=self.newClientFunc,args=(client,))
                     thread.start()
                 
-def a(a:clientHandler.ClientHandler):
+def a(a):
     print(a.getAddr())
     a.acceptConnection()
     print(a.readNessage())
