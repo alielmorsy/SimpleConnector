@@ -12,6 +12,8 @@ $ python -m pip install SimpleConnector
  ```
  to add Simple Connector to your C# project u can find libaray source or DLL file in releases
  
+# Usage
+u can check example folder in repo for more info
 ## License
 
 [Apache License 2.0](LICENSE)
